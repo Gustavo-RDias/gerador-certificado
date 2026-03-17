@@ -32,7 +32,8 @@
             "styles": [
               "src/styles.scss",
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "http://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/styles.css"
+              "http://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/styles.css",
+              "https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css"
             ]
           },
           "configurations": {
