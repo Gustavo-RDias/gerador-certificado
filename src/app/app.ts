@@ -1,10 +1,11 @@
 import { Component, signal } from '@angular/core';
 import { Navebar } from "./_components/navebar/navebar";
+import { PrimaryButton } from "./_components/primary-button/primary-button";
 
 
 @Component({
   selector: 'app-root',
-  imports: [Navebar],
+  imports: [Navebar, PrimaryButton],
   templateUrl: './app.html',
   styleUrl: './app.scss'
 })
